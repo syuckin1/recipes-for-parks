@@ -3,3 +3,8 @@
 library(lme4)
 
 # Add roasted red pepper sauce and tomatoes and spices
+
+avocado
+garlic
+onion
+
